@@ -1,2 +1,1 @@
-# docker-elasticsearch
-ELASTICSEARCH container image
+# ELASTICSEARCH container image
