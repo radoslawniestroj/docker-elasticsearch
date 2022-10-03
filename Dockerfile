@@ -1,4 +1,4 @@
-FROM elasticsearch:6.5.3
+FROM elasticsearch:7.17.6
 
 MAINTAINER Radosław Niestrój <niestrojradoslaw@gmail.com>
 
